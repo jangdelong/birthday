@@ -1,0 +1,15 @@
+/**********************
+ * name: style.css
+ * author: Jelon
+ * date: 2014-9-14
+ * version: 0.0.1
+ * desc: 写给红红童鞋..
+ ***********************/
+*{margin:0;padding:0;}
+body{font:12px  "microsoft yahei";color:#999;}
+i{font-style:normal;}
+.txt-area{color:#333;margin:8px 0;}
+#txt{display:block;width:160px;margin:0 auto;}
+.cake{font-family:Consolas,"Courier New";}
+.cake-inner{display:block;width:170px;margin:120px auto 0;}
+.cake-inner span i{color:#c03;}

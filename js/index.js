@@ -43,7 +43,7 @@
 		setTimeout(function() {
 			index2++;
 			if (index2 < len2) {
-				arr_cake[index2] = [];
+				arr_cake = [];
 				arr_cake = txt_cake.split('');
 
 				arr_cake[index2] = '<i>' + txt_cake.charAt(index2) + '</i>';

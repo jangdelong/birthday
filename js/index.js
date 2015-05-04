@@ -3,11 +3,11 @@
  * author: Jelon
  * date: 2014-9-14
  * version: 0.0.1
- * desc: 写给红红童鞋..
+ * desc: 写给xx童鞋..
  */
 (function() {
 	var timer = null,
-		txt = '亲爱的廖红童鞋，生日快乐~',
+		txt = '亲爱的xx童鞋，生日快乐~',
 		txt_cake = $('#txtCake').text(),
 		arr_cake = txt_cake.split(''),
 		txt_tmp1 = '',
